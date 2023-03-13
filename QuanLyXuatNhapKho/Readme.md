@@ -10,3 +10,4 @@ Ràng buộc dữ liệu:
 8. Trường hợp chuyển kho, trong chi tiết phiếu chyển, số lượng nhập thực tế phải nhỏ hơn số lượng xuất thực tế
 
 **B. Tạo bảng báo cáo Xuất Nhập cho các Kho, NCC, Công trình**
+![image](https://user-images.githubusercontent.com/107611691/224640536-fd18edc4-0a07-46b6-9731-3fef0d73a901.png)
