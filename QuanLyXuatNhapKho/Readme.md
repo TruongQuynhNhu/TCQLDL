@@ -9,4 +9,4 @@ Ràng buộc dữ liệu:
 7. Trường hợp chuyển kho, ngày xuất phải trước hoặc cùng ngày nhập
 8. Trường hợp chuyển kho, trong chi tiết phiếu chyển, số lượng nhập thực tế phải nhỏ hơn số lượng xuất thực tế
 
-**B. Tạo bảng báo cáo Xuất Nhập cho các Kho, NCC, Công trình
+**B. Tạo bảng báo cáo Xuất Nhập cho các Kho, NCC, Công trình**
